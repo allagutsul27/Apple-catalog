@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6dbd35b5.chunk.css",
+    "main.js": "./static/js/main.d7af85bc.chunk.js",
+    "main.js.map": "./static/js/main.d7af85bc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/css/2.eba4412f.chunk.css": "./static/css/2.eba4412f.chunk.css",
+    "static/js/2.19d62a0c.chunk.js": "./static/js/2.19d62a0c.chunk.js",
+    "static/js/2.19d62a0c.chunk.js.map": "./static/js/2.19d62a0c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.eba4412f.chunk.css.map": "./static/css/2.eba4412f.chunk.css.map",
+    "static/css/main.6dbd35b5.chunk.css.map": "./static/css/main.6dbd35b5.chunk.css.map",
+    "static/js/2.19d62a0c.chunk.js.LICENSE.txt": "./static/js/2.19d62a0c.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/dropdown.scss": "./static/media/arrow-down.0775c6b7.svg",
+    "static/media/search.scss": "./static/media/search.000b9273.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/css/2.eba4412f.chunk.css",
+    "static/js/2.19d62a0c.chunk.js",
+    "static/css/main.6dbd35b5.chunk.css",
+    "static/js/main.d7af85bc.chunk.js"
+  ]
+}
