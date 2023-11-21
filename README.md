@@ -4,10 +4,10 @@ Welcome to the Phone Catalog, a React-based directory application designed to he
 
 ## Demo
 
-Check out the live demo of the project [Demo link](https://github.com/allagutsul27/Apple-catalog).
+Check out the live demo of the project [Demo link](https://allagutsul27.github.io/Apple-catalog/)
 
 ## Design Mockup
-Explore the visual design of the project on Figma: [Design Mockup](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev).
+Explore the visual design of the project on Figma: [Design Mockup](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev)
 
 
 ## Technologies Used
